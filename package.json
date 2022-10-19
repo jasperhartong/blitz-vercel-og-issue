@@ -2,9 +2,9 @@
   "name": "blitz-vercel-og-issue",
   "version": "1.0.0",
   "scripts": {
-    "dev": "blitz dev",
-    "build": "blitz build",
-    "start": "blitz start",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
     "lint": "eslint --ignore-path .gitignore --ext .js,.ts,.tsx .",
     "test": "jest --passWithNoTests",
     "test:watch": "jest --watch",
